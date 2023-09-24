@@ -22,5 +22,15 @@ As they watched the star return to its place, Leo, Uni, and Oliver felt a sense 
 With happy hearts, the three friends returned to the Enchanted Valley, ready to share their knowledge and values with other inhabitants, making their magical land an even better place to live. And every night, they looked up at the sky, waving at the twinkling star, which seemed to shine a little brighter, reminding them that with good values and practical skills, anything is possible.
 
 
+Images
+lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration 
+
+illustration of unicorn, lion and the owl are on the broken bridge 
+
+illustration of unicorn, lion and the owl who found a fallen and dim star
+illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky 
+
+
+
 
 
