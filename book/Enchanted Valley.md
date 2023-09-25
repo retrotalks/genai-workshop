@@ -26,11 +26,11 @@ With happy hearts, the three friends returned to the Enchanted Valley, ready to 
 
 
 ## Images prompts
-- lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration 
-- illustration of unicorn, lion and the owl are on the broken bridge 
-- illustration of unicorn, lion and the owl who found a fallen and dim star
-- illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky 
-- illustration of happy unicorn, lion and the owl looking at the starry sky 
+- ![lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration](book/lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration.jpeg) 
+- ![illustration of unicorn, lion and the owl are on the broken bridge]( 
+- ![illustration of unicorn, lion and the owl who found a fallen and dim star](
+- ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky]( 
+- ![illustration of happy unicorn, lion and the owl looking at the starry sky]( 
 
 
 
