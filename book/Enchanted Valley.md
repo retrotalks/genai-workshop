@@ -31,7 +31,7 @@ With happy hearts, the three friends returned to the Enchanted Valley, ready to 
 - ![illustration of unicorn, lion and the owl who found a fallen and dim star](book/illustration of unicorn, lion and the owl who found a fallen and dim star.jpeg)
 - ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](book/illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky.jpeg)
 - ![illustration of happy unicorn, lion and the owl looking at the starry sky](book/illustration of happy unicorn, lion and the owl looking at the starry sky.jpeg)
-- ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](/123.jpeg)
+- ![illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky](123.jpeg)
 
 
 
