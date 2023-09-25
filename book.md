@@ -1,6 +1,9 @@
 ## The Enchanted Valley and the Lost Star 
 
 https://chat.openai.com/share/a2d91da5-5eca-48e4-bb8c-4e0a093c410f
+### Prompt
+In a magical land filled with colorful landscapes and mystical creatures, lies the Enchanted Valley, where every inhabitant learns the importance of good values from a young age. The story follows three young friends: a brave lion cub named Leo, a compassionate unicorn named Uni, and a wise owl named Oliver. Each character represents a different set of values – Leo stands for courage and leadership, Uni for kindness and empathy, and Oliver for wisdom and responsibility. Create a story for a kid of 7 years about these characters that show the good values and teach him some new practical skill
+
 ### Title: The Enchanted Valley and the Lost Star
 
 Once upon a time, in the vibrant Enchanted Valley, lived Leo the lion cub, Uni the unicorn, and Oliver the owl. Each day, they embarked on adventures that taught them important values and practical skills.
@@ -22,14 +25,11 @@ As they watched the star return to its place, Leo, Uni, and Oliver felt a sense 
 With happy hearts, the three friends returned to the Enchanted Valley, ready to share their knowledge and values with other inhabitants, making their magical land an even better place to live. And every night, they looked up at the sky, waving at the twinkling star, which seemed to shine a little brighter, reminding them that with good values and practical skills, anything is possible.
 
 
-## Images
+## Images prompts
 lion cub, unicorn, and the owl in the vibrant Enchanted Valley in children's style illustration 
-
 illustration of unicorn, lion and the owl are on the broken bridge 
-
 illustration of unicorn, lion and the owl who found a fallen and dim star
 illustration of unicorn, lion and the owl  are building a catapulta to send a star to the sky 
-
 illustration of happy unicorn, lion and the owl looking at the starry sky 
 
 
